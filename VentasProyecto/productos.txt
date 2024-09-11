@@ -1,0 +1,6 @@
+1;Producto1;18
+2;Producto2;43
+3;Producto3;57
+4;Producto4;69
+5;Producto5;3
+
