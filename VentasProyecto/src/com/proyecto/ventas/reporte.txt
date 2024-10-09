@@ -1,0 +1,3 @@
+Reporte de análisis de datos:
+Total de registros procesados: 100
+Promedio de edad: 43.57

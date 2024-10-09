@@ -1,0 +1,10 @@
+Conclusión del Proyecto
+
+1. Lo aprendido:
+Durante el desarrollo de este proyecto, tuve la oportunidad de entender y familiarizarme con conceptos básicos del mundo de la programación, lo cual me resultó muy útil. A través de la creación de archivos CSV, reportes automatizados y la gestión de excepciones en Java, logré tener una mejor comprensión de cómo funcionan los procesos de desarrollo. Esta electiva ha sido una gran introducción que me permite visualizar mejor cómo se ejecutan los proyectos en programación, un conocimiento clave para lo que espero aplicar en mi futuro profesional.
+
+2. Aplicaciones en la vida profesional:
+A futuro, me gustaría formar parte de proyectos de desarrollo de videojuegos como mercadólogo y director de arte, y esta formación me sirve mucho para introducirme en ese mundo. Aunque mi enfoque es más hacia el arte y el marketing, es vital comprender el lenguaje y las bases de la programación para trabajar en equipos multidisciplinarios y gestionar proyectos. Este curso me ha dado un buen punto de partida para entender mejor estos procesos técnicos.
+
+3. Dificultades presentadas:
+Durante el desarrollo, enfrenté problemas al manejar excepciones y procesar datos no válidos en los archivos CSV, así como algunos inconvenientes con la integración del proyecto en GitHub. Sin embargo, gracias a la asistencia técnica y la investigación, logré superar estos desafíos y finalizar el proyecto exitosamente.
